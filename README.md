@@ -31,6 +31,4 @@ Q&A: Added to the Client Monitoring page, this AI feature identifies allows the 
 
 3.[Describe capabilities of Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
 
-4. ChatGPT
-
-5.Flutter
+4.Flutter
