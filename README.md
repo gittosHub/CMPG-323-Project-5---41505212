@@ -34,7 +34,8 @@ Key Influencers: This feature is included on the High-Level Metrics page and hel
 Decomposition Tree: Found on the Project Monitoring page, this feature allows users to drill down into the sum of total Savings, explained by the Project Technology and Project name. It provides a clear, hierarchical breakdown of the data, enabling more granular analysis.
   
 Q&A: Added to the Client Monitoring page, this AI feature identifies allows the user to analyze the data by asking questions regarding the loaded data.
-<img width="803" height="458" alt="Screenshot 2026-11-12 210315" src="https://github.com/user-attachments/assets/2a3bc697-7e2f-4176-a3d8-80db62ca61b3" 
+<img width="803" height="458" alt="Screenshot 2026-11-12 210315" src="https://github.com/user-attachments/assets/2a3bc697-7e2f-4176-a3d8-80db62ca61b3" />
+
 
 ## **REFERENCE LIST** ##
 
